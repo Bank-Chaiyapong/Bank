@@ -1,1 +1,1 @@
-I am currently engaged in practice sessions to enhance my skills, and I am endeavoring to locate the source material on YouTube. 
+I am currently engaged in practice sessions aimed at enhancing my skills, and I am actively seeking the source material on platforms such as YouTube, GitHub, and Kaggle. My aspiration is to become a data scientist.
